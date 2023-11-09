@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ecff42b35f0f941a7f7b53cf8136f9, type: 3}
+  m_Name: Tanuki
+  m_EditorClassIdentifier: 
+  name: Tanuki
+  description: 
+  frontSprite: {fileID: 21300000, guid: a56156199db14b94882637e6303f7657, type: 3}
+  backSprite: {fileID: 21300000, guid: b738231cb31edd1408e09c61abaafebd, type: 3}
+  type1: 16
+  type2: 17
+  maxHp: 45
+  attack: 60
+  defense: 30
+  spAttack: 80
+  spDefense: 50
+  speed: 65
+  expYield: 64
+  growthRate: 0
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: e1afcc1c57bb18a47ab76fbd3d9edc4b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 879b2ad517d264847a063ed5b294af18, type: 2}
+    level: 2
+  - moveBase: {fileID: 11400000, guid: eb5e0895a6ee5fc449cfabab39b3e505, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: e66a45aed44bc5a49b42430e6548b3a5, type: 2}
+    level: 6

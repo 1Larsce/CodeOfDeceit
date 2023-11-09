@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ecff42b35f0f941a7f7b53cf8136f9, type: 3}
+  m_Name: Jeff
+  m_EditorClassIdentifier: 
+  name: Jeff
+  description: 
+  frontSprite: {fileID: 21300000, guid: 656b4d9c100638c418db540dc2be8bad, type: 3}
+  backSprite: {fileID: 21300000, guid: d8c280505f038774db0861cda28cf5b4, type: 3}
+  type1: 6
+  type2: 9
+  maxHp: 70
+  attack: 74
+  defense: 40
+  spAttack: 80
+  spDefense: 40
+  speed: 95
+  expYield: 64
+  growthRate: 0
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f03c3539c4a0d1d4eb78edce3babf484, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 2551c6ba7985d44499e50b5db741c46f, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: a801455e390681e42b515e88ef30ca04, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: 10ca874fd724717499a5c410294e3257, type: 2}
+    level: 6

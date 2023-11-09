@@ -1,0 +1,21 @@
+Cofagrigus North: Ghost / Rock
+Cofagrigus South: Ghost / Grass
+Cofagrigus West: Ghost / Water
+Duscelle: Ghost / Dark
+Dusclops: Ghost / Psychic
+Duskull: Ghost / Psychic
+Grumpig: Dark / Fire
+Ikanarigus: Ghist / Ground
+Magcargo: Fire / Psychic
+Malix: Steel / Poison
+Mimikyu: Fairy
+Mr. Mime: Ghost / Fairy
+Onix: Steel / Poison
+Rotom-Bombchu: Electric / Fire
+Spiritomb: Ghost / Psychic
+Spoink: Dark / Fire
+Spoink Blast: Dark
+Yamask Maskless: Ghost / Normal
+Yamask North: Ghost / Rock
+Yamask South: Ghost / Grass
+Yamask West: Ghost / Water

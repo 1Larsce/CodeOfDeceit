@@ -1,0 +1,41 @@
+Atlasbel: Grass / Fighting
+Axolava: Fire / Dragon
+Bellscrop: Grass
+Carva: Bug / Steel
+Chrizard: Fire / Fairy
+Charmander: Fire / Fairy
+Charmeleon: Fire / Fairy
+Cryscross: Ice
+Drowzee: Ghost
+Dunspear: Normal / Dragon
+Exeggcute: Rock / Fire
+Exeggcutor: Rock / Fire
+Gryphlit: Psychic / Flying
+Hoppot: Grass
+Hoprake: Grass / Dark
+Hotung: Fire
+Hypno: Ghost
+Ladrake: Dragon
+Lapod: Water / Ice
+Loamix: Rock / Ground
+Lootbird: Ghost / Flying
+Luvdisc: Water / Ghost
+Mega Goodra:
+Noctowl: Dark / Flying
+Potish: Grass
+Quagsire: Fire / Ground
+Quilfish Evo: Water / Steel
+Rampdily: Grass / Ground
+Ramptops: Water / Ground
+Roseling: Grass
+Rotom-View: Electric / Fairy
+Scruffalo: Normal
+Shorelorn: Water / Ghost
+Sproutrap: Grass
+Sunnydra: Grass / Dragon
+Tregelyph: Psychic / Grass
+Trickish: Grass / Psychic
+Tropetite: Grass
+UB Puddilick: Poison
+Witherade: Grass / Ghost
+Wooper: Fire / Ground
