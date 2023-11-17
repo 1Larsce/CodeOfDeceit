@@ -41801,6 +41801,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1105970381536527437, guid: 6eec89957c41e674fb60f401a05117de, type: 3}
+      propertyPath: dialog.lines.Array.data[2]
+      value: LFG!
+      objectReference: {fileID: 0}
+    - target: {fileID: 1105970381536527437, guid: 6eec89957c41e674fb60f401a05117de, type: 3}
+      propertyPath: dialogAfterBattle.lines.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1105970381536527437, guid: 6eec89957c41e674fb60f401a05117de, type: 3}
+      propertyPath: dialogAfterBattle.lines.Array.data[2]
+      value: Enjoy the term break.
+      objectReference: {fileID: 0}
     - target: {fileID: 1105970381536527439, guid: 6eec89957c41e674fb60f401a05117de, type: 3}
       propertyPath: m_Name
       value: Trainer Dada
@@ -42109,6 +42121,15 @@ PrefabInstance:
     - target: {fileID: 2603001172085115808, guid: fe331bfadb0910240bb21507c5358153, type: 3}
       propertyPath: m_Name
       value: NPC Red 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2603001172085115815, guid: fe331bfadb0910240bb21507c5358153, type: 3}
+      propertyPath: dialog.lines.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2603001172085115815, guid: fe331bfadb0910240bb21507c5358153, type: 3}
+      propertyPath: dialog.lines.Array.data[2]
+      value: Dead Dada is so strong. You must train your ciphers to level 10 to 15
+        before facing her.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fe331bfadb0910240bb21507c5358153, type: 3}

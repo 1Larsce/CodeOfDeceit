@@ -31692,6 +31692,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -8822494259497612107, guid: c3f6cd1d8e8aa6249a3a4113a59b04c8, type: 3}
+      propertyPath: uniqueId
+      value: 4761210a-cd38-450e-983b-6146ff599e3f
+      objectReference: {fileID: 0}
     - target: {fileID: 595899338669869328, guid: c3f6cd1d8e8aa6249a3a4113a59b04c8, type: 3}
       propertyPath: m_Name
       value: Skater Boy
@@ -31797,6 +31801,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bad Boy Neil
       objectReference: {fileID: 0}
+    - target: {fileID: 9042546707090831275, guid: 1805dffb229b831479ca62d2b409e9d6, type: 3}
+      propertyPath: uniqueId
+      value: 14871fbd-5ef3-4549-9e37-86fabcd316fd
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1805dffb229b831479ca62d2b409e9d6, type: 3}
 --- !u!1001 &5596366071756874256
@@ -31806,6 +31814,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -718781800161183888, guid: 9451730e054788046b98a824f9cc0ff7, type: 3}
+      propertyPath: uniqueId
+      value: bacff77e-9d07-42af-82d9-fea8165ebe53
+      objectReference: {fileID: 0}
     - target: {fileID: 5596366071613379507, guid: 9451730e054788046b98a824f9cc0ff7, type: 3}
       propertyPath: m_Name
       value: Skater Girl
@@ -31863,6 +31875,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -4591017222092389908, guid: c538719b6f7ebe8499744dd9d0cdc127, type: 3}
+      propertyPath: uniqueId
+      value: db85fc8a-90d0-4385-aef9-0fa1b47dc0b8
+      objectReference: {fileID: 0}
     - target: {fileID: 5687216701540453743, guid: c538719b6f7ebe8499744dd9d0cdc127, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -31920,6 +31936,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2087104509787461922, guid: 1a5c38b8dc49b3441adf80de62ea04e7, type: 3}
+      propertyPath: uniqueId
+      value: 9c9c0eb6-e9e6-4cac-bbf8-a16c00ca9cba
+      objectReference: {fileID: 0}
     - target: {fileID: 8218490904651621794, guid: 1a5c38b8dc49b3441adf80de62ea04e7, type: 3}
       propertyPath: m_Name
       value: NPC Red
@@ -31977,6 +31997,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -4937696803579827364, guid: 8fdfeb33a02d4fb41b4a0cb8f287fe28, type: 3}
+      propertyPath: uniqueId
+      value: 26ddb921-5b6c-4614-83e2-7cc2d8fbe63d
+      objectReference: {fileID: 0}
     - target: {fileID: 8510023957948414489, guid: 8fdfeb33a02d4fb41b4a0cb8f287fe28, type: 3}
       propertyPath: m_Name
       value: Bad Boy Twin

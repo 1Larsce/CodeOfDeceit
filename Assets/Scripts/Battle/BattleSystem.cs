@@ -705,7 +705,7 @@ public class BattleSystem : MonoBehaviour
             yield break;
         }
 
-        yield return dialogBox.TypeDialog($"{player.Name} used CIPHERBALL!");
+        yield return dialogBox.TypeDialog($"{player.Name} used CIPHER CARD!");
 
         var cipherballObj = Instantiate(cipherballSprite, playerUnit.transform.position - new Vector3(2, 0), Quaternion.identity);
         var cipherball = cipherballObj.GetComponent<SpriteRenderer>();
